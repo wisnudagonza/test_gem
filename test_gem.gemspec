@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'test_gem/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "test_gem"
+  spec.name          = "apidoms"
   spec.version       = TestGem::VERSION
   spec.authors       = ["wisnu"]
   spec.email         = ["wisnu_dagonza8@yahoo.co.id"]
